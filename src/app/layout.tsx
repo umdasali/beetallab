@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Beetallab - Professional Web Services",
-  description: "Beetallab Solutions delivers world-class web development, mobile apps, cloud hosting, SEO, UI/UX design, and digital marketing services.",
+  title: "Beetallabs - Professional Web Services",
+  description: "Beetallabs Solutions delivers world-class web development, mobile apps, cloud hosting, SEO, UI/UX design, and digital marketing services.",
 };
 
 export default function RootLayout({

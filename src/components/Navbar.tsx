@@ -27,7 +27,7 @@ export default function Navbar() {
               <span className="text-fg">
                 Beetal
               </span>
-              <span className="text-accent">lab</span>
+              <span className="text-accent">labs</span>
             </span>
           </a>
 

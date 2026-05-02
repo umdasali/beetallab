@@ -240,7 +240,7 @@ function AboutSection() {
               A Fresh Team with a Clear Mission
             </h2>
             <p className="text-fg-muted leading-relaxed mb-4">
-              Beetallab Solutions was founded with a simple mission: make exceptional web technology accessible to businesses of every size. We are a small, focused team of developers and designers who care deeply about the work we ship.
+              Beetallabs Solutions was founded with a simple mission: make exceptional web technology accessible to businesses of every size. We are a small, focused team of developers and designers who care deeply about the work we ship.
             </p>
             <p className="text-fg-muted leading-relaxed mb-4">
               We believe great digital products are built at the intersection of technical excellence and deep user empathy. Every project gets our full attention, from concept to launch and beyond.
@@ -413,7 +413,7 @@ function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <img src="/beetallab.png" alt="Beetallab Logo" className="h-8 w-auto" />
-              <span className="text-footer-fg font-bold text-xl tracking-tight">Beetallab</span>
+              <span className="text-footer-fg font-bold text-xl tracking-tight">Beetallabs</span>
             </div>
             <p className="text-footer-fg-muted text-sm leading-relaxed">
               Building exceptional digital experiences that help businesses grow and succeed online.
@@ -491,7 +491,7 @@ function Footer() {
         </div>
 
         <div className="border-t border-border mt-12 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-footer-fg-subtle text-sm">© 2024 Beetallab Solutions. All rights reserved.</p>
+          <p className="text-footer-fg-subtle text-sm">© 2024 Beetallabs. All rights reserved.</p>
           <div className="flex gap-5 text-sm">
             <a href="#" className="text-footer-fg-subtle hover:text-footer-fg transition-colors">Privacy Policy</a>
             <a href="#" className="text-footer-fg-subtle hover:text-footer-fg transition-colors">Terms of Service</a>
